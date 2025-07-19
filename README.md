@@ -23,10 +23,10 @@ Screenshots of the application on Lyzr Studio
 
 Try it out
 ---
-- [Understanding Credits in Lyzr Agent Studio](https://docs.lyzr.ai/introduction/getting-started/credits)
-- [Lyzr-PlanForge](https://studio.lyzr.ai/agent/687877316cc2cda0d0a1a1af)
-- Login to Lyzr Studio
-- Give prompt like "Create a detailed plan for an e-bike charging app."
 
+- <a href="https://docs.lyzr.ai/introduction/getting-started/credits" target="_blank">Understanding Credits in Lyzr Agent Studio</a>
+- <a href="https://studio.lyzr.ai/agent/687877316cc2cda0d0a1a1af" target="_blank">Lyzr-PlanForge</a>
+- Login to Lyzr Studio
+- Give a prompt like "Create a detailed plan for an e-bike charging app.
 
 
